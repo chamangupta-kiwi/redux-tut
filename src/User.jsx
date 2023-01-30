@@ -1,5 +1,5 @@
 import React from 'react'
-
+/////////////////////////////// this file is used for  only revision about props ///////////////
 const User = (props) => {
     //console.log(props.data.name)
     const {data} = props
